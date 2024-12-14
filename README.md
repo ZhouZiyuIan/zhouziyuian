@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![ZhouZiyuIan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhouZiyuIan&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&number_format=long&count_private=true)
-<!--<img width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="profile stats" title="profile stats" />-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouZiyuIan)  
+![streak stats](https://streak-stats.demolab.com?user=ZhouZiyuIan&theme=transparent&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouZiyuIan&theme=transparent&hide_border=true)  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghproxy.net/https://raw.githubusercontent.com/ZhouZiyuIan/ZhouZiyuIan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://ghproxy.net/https://raw.githubusercontent.com/ZhouZiyuIan/zhouziyuian/refs/heads/output/github-contribution-grid-snake.svg">
