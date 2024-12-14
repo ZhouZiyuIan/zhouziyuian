@@ -1,5 +1,5 @@
 ## Hi there 👋
-![ZhouZiyuIan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhouZiyuIan&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true)
+![ZhouZiyuIan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhouZiyuIan&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&number_format=long&count_private=true)
 <!--<img width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="profile stats" title="profile stats" />-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouZiyuIan)  
 <picture>
