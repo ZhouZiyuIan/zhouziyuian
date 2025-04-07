@@ -3,9 +3,9 @@
 ![streak stats](https://streak-stats.demolab.com?user=ZhouZiyuIan&theme=transparent&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhouZiyuIan&theme=transparent&hide_border=true)  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://bgithub.xyz/ZhouZiyuIan/zhouziyuian/raw/refs/heads/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://bgithub.xyz/ZhouZiyuIan/zhouziyuian/raw/refs/heads/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://bgithub.xyz/ZhouZiyuIan/zhouziyuian/raw/refs/heads/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.bgithub.xyz/ZhouZiyuIan/zhouziyuian/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.bgithub.xyz/ZhouZiyuIan/zhouziyuian/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.bgithub.xyz/ZhouZiyuIan/zhouziyuian/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 <!--
 **ZhouZiyuIan/zhouziyuian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
