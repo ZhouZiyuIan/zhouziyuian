@@ -7,6 +7,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.bgithub.xyz/ZhouZiyuIan/zhouziyuian/refs/heads/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.bgithub.xyz/ZhouZiyuIan/zhouziyuian/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
+
+Actually, I am currently learning C++ for Olympiad in Informatics yet. Although the picture above says the topest language I use is Python.🤣
 <!--
 **ZhouZiyuIan/zhouziyuian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
