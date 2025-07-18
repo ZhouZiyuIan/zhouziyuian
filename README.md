@@ -8,7 +8,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.bgithub.xyz/ZhouZiyuIan/zhouziyuian/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
-Actually, I am currently learning C++ for Olympiad in Informatics yet. Although the picture above says the topest language I use is Python.🤣
+- ⚡ Fun fact: Actually, I am currently learning C++ for Olympiad in Informatics yet. Although the picture above says the my most used language is Python.🤣
+- 😄 Pronouns: he/him(in real life) / she/her(jokes/in the internet)
+- 💬 Ask me about rhythm games, Genshin Impact, Honkai: Star Rail or some simple programming language
+- Use Chinese(both simplified and traditional are okay), English or Cantonese to chat with me.
 <!--
 **ZhouZiyuIan/zhouziyuian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
