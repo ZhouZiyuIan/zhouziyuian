@@ -9,7 +9,7 @@
 </picture>
 
 - ⚡ Fun fact: Actually, I am currently learning C++ for Olympiad in Informatics yet. Although the picture above says the my most used language is Python.🤣
-- 😄 Pronouns: he/him(in real life) / she/her(jokes/in the internet)
+- 😄 Pronouns: he/him(in the real life) / she/her(jokes/on the internet)
 - 💬 Ask me about rhythm games, Genshin Impact, Honkai: Star Rail or some simple programming language
 - Use Chinese(both simplified and traditional are okay), English or Cantonese to chat with me.
 <!--
